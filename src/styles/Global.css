@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("src/asstes/image/magia.png") ;
+  background-image: url("/src/asstes/image/magia.png") ;
   color: white;
   text-align: center;
   font-family: sans-serif;
